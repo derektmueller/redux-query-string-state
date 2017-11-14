@@ -7,6 +7,10 @@
     "test": "./node_modules/jest/bin/jest.js",
     "autotest": "./node_modules/jest/bin/jest.js --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parenparen/redux-query-string-state.git"
+  },
   "keywords": [
     "redux",
     "url",
